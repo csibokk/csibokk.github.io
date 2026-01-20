@@ -38,10 +38,10 @@
     #   subhref: "http://post8000.svmiller.com/"
 
 - title: "团队及招生情况"
-  href: "/team/"
+  href: ""
   active: 团队及招生情况
   subcategories:
-    - subtitle: "Article Summaries"
+    - subtitle: "二级分类"
       subhref: "/article-summaries/"
     - subtitle: "Letters of Recommendation"
       subhref: "/for-students/letters-of-recommendation/"
