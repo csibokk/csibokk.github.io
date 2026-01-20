@@ -5,8 +5,4 @@ permalink: /cv1/
 active: cv1
 ---
 
-I embed a current version of my CV below. You can also [download the PDF here](/docs/1.pdf).
-
-<iframe src="https://csibokk.github.io/docs/1.pdf" class="gde-frame" style="height: 1000px; width: 100%; border: none;" scrolling="yes"></iframe>
-
-<!-- {% include embedpdf.html code="f5p4nwg73ruxbho/1.pdf" width=100 height=800 %} -->
+熊大鹏，副研究员，在清华大学获得理学博士学位，康奈尔大学开展博士后研究工作，具有信息与计算科学、计算机科学与技术和生物学的学位背景，主要从事AI驱动的计算生物学研究。以第一作者/通讯作者在Nature Biotechnology、Pattern Recognition、Communications Biology和Bioinformatics等期刊发表论文10余篇。担任Briefings in Bioinformatics、IEEE Transactions on Multimedia等期刊审稿人。
