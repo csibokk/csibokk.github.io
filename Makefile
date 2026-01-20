@@ -21,8 +21,8 @@ resume: docs/svm-resume.pdf
 societal: docs/svm-societal-interaction.pdf
 teaching: docs/svm-teaching-reflection.pdf docs/svm-teaching-philosophy.pdf
 
-docs/1.pdf :	docs/svm-cv.Rmd
-	Rscript -e 'source("docs/make_cv.R")'
+docs/1.pdf : docs/svm-cv1.Rmd
+	Rscript -e 'source("docs/make_1.R")'
 
 docs/svm-cv.pdf docs/svm-cv-jm.pdf:	docs/svm-cv.Rmd
 	Rscript -e 'source("docs/make_cv.R")'
