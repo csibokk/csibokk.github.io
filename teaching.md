@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Teaching
+title: 科学研究
 permalink: /teaching/
-image: "edward-james-olmos-stand-deliver.jpg"
 active: teaching
 ---
 
@@ -21,7 +20,7 @@ active: teaching
 （4）酶功能优化与定向进化驱动的高效酶开发。
 
 
-## 近期代表性论文（#：Equal Contribution, *：Corresponding Author）：
+## 近期代表性论文（`#`：Equal Contribution, *：Corresponding Author）：
 
   [1] Y Zhang, J Wu, Q Zhao, M Dong, J Deng, X Gao, K Hu, D Xiong*. Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism. Pattern Recognition, 2026, 169:1111935.
 
