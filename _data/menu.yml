@@ -1,12 +1,12 @@
-- title: "About"
-  href: "/about/"
-  active: about
+#- title: "About"
+##  href: "/about/"
+#  active: about
 
-- title: "Blog"
-  href: "/blog/"
-  active: blog
+#- title: "Blog"
+#  href: "/blog/"
+#  active: blog
 
-- title: "CV"
+- title: "基本信息"
   href: "/cv/"
   active: cv
 
@@ -18,11 +18,11 @@
 #     - subtitle: "Pi Sigma Alpha"
 #       subhref: "/for-students/pi-sigma-alpha/"
 
-- title: "Research"
+- title: "教学授课"
   href: "/research/"
   active: research
 
-- title: "Teaching"
+- title: "科学研究"
   href: "/teaching/"
   active: teaching
 # subcategories:
@@ -37,7 +37,7 @@
     # - subtitle: "POST 8000 - Foundations of Social Science Research for Public Policy"
     #   subhref: "http://post8000.svmiller.com/"
 
-- title: "Miscelánea"
+- title: "团队及招生情况"
   href: ""
   active: miscelanea
   subcategories:
