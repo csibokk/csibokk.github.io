@@ -1,14 +1,14 @@
 # Site settings
-title: Steven V. Miller
-email: steve@svmiller.com
+title: 大鹏 熊
+email: csibokk@github.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm a political scientist at Stockholm University with research interests in
   international conflict and political behavior. Topics on my site include
   my teaching interests, R, LaTeX, and professional development.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://svmiller.com" # the base hostname & protocol for your site
-twitter_username: stevenvmiller
-github_username:  svmiller
+url: "https://csibokk.github.io/" # the base hostname & protocol for your site
+twitter_username: 大鹏 熊
+github_username:  熊大鹏
 orcid_id: 0000-0003-4072-6263
 google_scholar_id: BNr-fb8AAAAJ
 
@@ -21,11 +21,11 @@ jobtitle: "Docent"
 excerpt_separator: "<!--more-->"
 
 # SEO stuff
-google_author: "https://plus.google.com/u/0/110288225974212014913"
-google_site_verification: "nfd8hkZSc3GmIivrLCudAdTq5m1kI0Ao7P1UyIt9z5Q"
-bing_webmastertools_id: "E24D33E8D53D5730794478CB209F15E5"
+#google_author: "https://plus.google.com/u/0/110288225974212014913"
+#google_site_verification: "nfd8hkZSc3GmIivrLCudAdTq5m1kI0Ao7P1UyIt9z5Q"
+#bing_webmastertools_id: "E24D33E8D53D5730794478CB209F15E5"
 
-plugins_dir:
-  - jekyll-sitemap
+#plugins_dir:
+#  - jekyll-sitemap
 
 exclude: ['*.Rmd']
