@@ -6,63 +6,27 @@ image: "edward-james-olmos-stand-deliver.jpg"
 active: teaching
 ---
 
-<!-- {% include image.html url="/images/edward-james-olmos-stand-deliver.jpg" caption="That's right. Tough guys don't do math; tough guys deep fry chicken for a living." width="400" align="right" %} -->
-
-This page includes my teaching philosophy and an empirical assessment of my teaching effectiveness. It also serves as a directory for the courses I have taught, which are freely available to current students, alumni of my classes, and any other interested observers. Transitions my website has made over the years---from university servers, to Wordpress, to (now) Github---have led to the loss of several old course websites in the shuffle. People interested in syllabi from previous courses I taught at Alabama and Illinois can e-mail me to obtain a past syllabus.
-
 <hr style="clear:both;visibility: hidden;" />  
 
-## Teaching Documents
+## 研究方向：
 
-- [Teaching Philosophy](/docs/svm-teaching-philosophy.pdf)
-- [A Personal Reflection on Teaching Effectiveness and Feedback](/docs/svm-teaching-reflection.pdf)
+围绕“AI+生命科学”，在AI、蛋白组学、基因组学与精准医疗等前沿交叉领域展开研究。致力于AI算法的设计与开发，及其在蛋白质结构与功能，蛋白质互作，突变与疾病关联以及药物设计等方面的应用。通过揭示关键生物学功能，系统解析疾病的致病机制，促进药物靶点的发现与精准设计，为新药研发及精准医疗提供理论支持与技术支撑。具体包括但不限于：
 
-## Course Directory
-
-### Stockholm University
-
-- [IRIII.2](https://ir3-2.svmiller.com) (Quantitative Methods in the Study of International Relations)
-- [EH 6105](http://eh6105.svmiller.com) (Quantitative Methods [old])
-- [EH 6127](http://eh6127.svmiller.com) (Quantitative Methods)
+（1）以蛋白质为核心的生物大分子及其互作的结构表征与建模；
+（2）基因突变功能影响及其致病机制的系统分析；
+（3）药物靶点识别与分子设计；
+（4）酶功能优化与定向进化驱动的高效酶开发。
 
 
-### Clemson University
+## 近期代表性论文（#：Equal Contribution, *：Corresponding Author）：
 
-#### Undergraduate Classes
+  [1] Y Zhang, J Wu, Q Zhao, M Dong, J Deng, X Gao, K Hu, D Xiong*. Improving mutation pathogenicity prediction of metal-binding sites in proteins with a panoramic attention mechanism. Pattern Recognition, 2026, 169:1111935.
 
-- [POSC 1020](http://posc1020.svmiller.com) (Introduction to International Relations)
-- [POSC 3410](http://posc3410.svmiller.com) (Quantitative Methods in Political Science)
-- [POSC 3610](http://posc3610.svmiller.com) (International Conflict)
-- [POSC 3630](/teaching/posc-3630-united-states-foreign-policy/) (United States Foreign Policy)
+  [2] D Xiong#, Y Qiu#, J Zhao#, Y Zhou#,D Lee#, S Gupta, M Torres, W Lu, S Liang, J J Kang, C Eng, J Loscalzo, F Cheng*, H Yu*. A structurally informed human protein–protein interactome reveals proteome-wide perturbations caused by disease mutations. Nature Biotechnology, 2025, 43:1510-1524.
 
-#### Graduate Classes
+  [3] Y Zhang, J Deng, M Dong, J Wu, Q Zhao*, X Gao*, D Xiong*. PILOT: Deep Siamese network with hybrid attention improves prediction of mutation impact on protein stability. Neural Networks, 2025, 188:107476.
 
-- [POST 8000](http://post8000.svmiller.com) (Foundations of Social Science Research for Public Policy)
+  [4] Y Zhang, M Dong, J Deng, J Wu, Q Zhao*, X Gao*, D Xiong*. Graph masked self-distillation learning for prediction of mutation impact on protein–protein interactions. Communications Biology, 2024, 7:1400.
 
-#### Proposed Classes
+  [5] D Xiong*, K U, J Sun*, A P Cribbs. PLMC: Language model of protein sequences enhances protein crystallization prediction. Interdisciplinary Sciences: Computational Life Sciences, 2024, 16:802-813.
 
-- [Data Science for the Social Sciences](/teaching/data-science-social-sciences/)
-- [Comparative Political Behavior](/teaching/posc-4430-political-behavior/)
-- [Quantitative Public Policy Analysis](/teaching/quantitative-public-policy-analysis/)
-- [Democracies, International Conflict, and Peace](/teaching/proposed-syllabi/svm-democracy-conflict-peace-syllabus.pdf)
-- [What Do We Know About War?](/teaching/proposed-syllabi/svm-wdwkaw-syllabus.pdf)
-
-### University of Illinois at Urbana-Champaign
-
-- PS 283 (Intro to International Security)
-- PS 300 (Democracies and Peace)
-- PS 395 (International Organization)
-- PS 396 (International Conflict)
-
-### University of Alabama
-
-I taught eight separate courses while a graduate student at the University of Alabama. I taught a few classes on several occasions, for which the substance and course materials would change from one term to the next.
-
-- PSC 101 (Intro to American Politics)
-- PSC 102 (America and the World — Foreign Policy Decision-Making)
-- PSC 201 (Scope of Political Science)
-- PSC 202 (Political Science Methods)
-- PSC 203 (Intro to Comparative Politics)
-- PSC 204 (Intro to International Relations)
-- PSC 442 (Interstate Conflict)
-- PSC 446w (Political Economy of Security)
