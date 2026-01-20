@@ -15,11 +15,14 @@ posts: $(RMD_OUT)
 # Make commands/targets for rendering/knitting job docs
 
 cv: docs/svm-cv.pdf docs/svm-cv-jm.pdf
+cv1: docs/1.pdf
 research: docs/svm-research-statement.pdf
 resume: docs/svm-resume.pdf
 societal: docs/svm-societal-interaction.pdf
 teaching: docs/svm-teaching-reflection.pdf docs/svm-teaching-philosophy.pdf
 
+docs/1.pdf :	docs/svm-cv.Rmd
+	Rscript -e 'source("docs/make_cv.R")'
 
 docs/svm-cv.pdf docs/svm-cv-jm.pdf:	docs/svm-cv.Rmd
 	Rscript -e 'source("docs/make_cv.R")'
