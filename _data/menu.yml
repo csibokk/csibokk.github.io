@@ -7,8 +7,8 @@
 #  active: blog
 
 - title: "基本信息"
-  href: "/cv/"
-  active: cv
+  href: "/cv1/"
+  active: 基本信息
 
 # - title: "For Students"
 #   href: "/for-students/"
@@ -38,8 +38,8 @@
     #   subhref: "http://post8000.svmiller.com/"
 
 - title: "团队及招生情况"
-  href: ""
-  active: miscelanea
+  href: "/team/"
+  active: 团队及招生情况
   subcategories:
     - subtitle: "Article Summaries"
       subhref: "/article-summaries/"
