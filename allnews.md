@@ -3,6 +3,7 @@ layout: default
 ---
 <style>
 .index_news{
+	    width: 100%;
 	min-height: 20px;
     margin-bottom: 20px;
     background-color: #fafafa;
